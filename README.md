@@ -1,5 +1,5 @@
 # Blockchain-based-File-Storage
-----------A Block Chain Beginner project--------
+----------A Block Chain Beginner project----------
    
     How to run the application
     
