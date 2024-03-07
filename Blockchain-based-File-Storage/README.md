@@ -19,7 +19,6 @@ We are using randomly generated nonce in proof of work concept to acheive the re
 The reason to implement file storing using blockchain is its abilitiy to avoid any modification or deletion. No one can delete or corrupt our files that are stored.
 
 <h2> Project Demo </h2>
-<h3> Youtube Demo Link : https://youtu.be/Z6JiYkk8Qt8 </h3>
 
 <h2>Importance of Blockchain:</h2>
 
